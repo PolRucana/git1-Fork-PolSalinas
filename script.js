@@ -1,2 +1,2 @@
-alert("MI alert en test mi test dfvdvdf sdsf")
+alert("MI alert en test mi dev dev")
 alert("Probar stash")
